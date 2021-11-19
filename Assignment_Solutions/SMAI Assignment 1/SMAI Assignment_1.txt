@@ -1,0 +1,75 @@
+SMAI Assignment 1
+
+Read the Assignment
+Search for the Implementation Online, Unterstand It(code, theory and data structure) Keep reading assignment also, READ ID3 ALGORITHM
+Read the newly uploaded slides relevant for Assignment
+IMPLEMENT IMPLEMENT IMPLEMENT
+TODAY WE HAVE 10 HOURS OF TIME TO COMPLETE IT 
+https://www.shanelynn.ie/python-pandas-read_csv-load-data-from-csv-files/
+https://stackoverflow.com/questions/16729574/how-to-get-a-value-from-a-cell-of-a-dataframe
+https://pythonhow.com/accessing-dataframe-columns-rows-and-cells/
+https://stackoverflow.com/questions/24147278/how-do-i-create-test-and-train-samples-from-one-dataframe-with-pandas
+https://www.hackerearth.com/fr/practice/machine-learning/machine-learning-algorithms/ml-decision-tree/tutorial/
+https://cmdlinetips.com/2018/01/how-to-get-unique-values-from-a-column-in-pandas-data-frame/
+https://stackoverflow.com/questions/16096627/selecting-a-row-of-pandas-series-dataframe-by-integer-index
+http://interactivepython.org/runestone/static/pythonds/Trees/NodesandReferences.html
+https://machinelearningmastery.com/implement-decision-tree-algorithm-scratch-python/
+https://www.hackerearth.com/fr/practice/machine-learning/machine-learning-algorithms/ml-decision-tree/tutorial/
+http://interactivepython.org/runestone/static/pythonds/Trees/NodesandReferences.html
+https://stackoverflow.com/questions/18358938/get-row-index-values-of-pandas-dataframe-as-list
+https://stackoverflow.com/questions/22341271/get-list-from-pandas-dataframe-column
+https://stackoverflow.com/questions/28663856/how-to-count-the-occurrence-of-certain-item-in-an-ndarray-in-python/37332201
+https://stackoverflow.com/questions/2482602/a-general-tree-implementation
+https://medium.com/deep-math-machine-learning-ai/chapter-4-decision-trees-algorithms-b93975f7a1f1
+https://stackoverflow.com/questions/268272/getting-key-with-maximum-value-in-dictionary
+https://medium.com/dunder-data/selecting-subsets-of-data-in-pandas-6fcd0170be9c
+https://stackoverflow.com/questions/3282823/get-the-key-corresponding-to-the-minimum-value-within-a-dictionary
+https://stackoverflow.com/questions/25169297/numpy-logarithm-with-base-n
+https://stackoverflow.com/questions/16970982/find-unique-rows-in-numpy-array
+https://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.drop_duplicates.html
+https://towardsdatascience.com/seven-clean-steps-to-reshape-your-data-with-pandas-or-how-i-use-python-where-excel-fails-62061f86ef9c
+https://medium.com/deep-math-machine-learning-ai/chapter-4-decision-trees-algorithms-b93975f7a1f1
+https://www.geeksforgeeks.org/python-list-sort/
+https://stackoverflow.com/questions/24748848/pandas-find-the-maximum-range-in-all-the-columns-of-dataframe
+https://stackoverflow.com/questions/49884400/how-do-i-find-the-maximum-value-in-an-array-within-a-dataframe-column
+https://medium.com/@rishabhjain_22692/decision-trees-it-begins-here-93ff54ef134
+https://stackoverflow.com/questions/8886730/invalid-syntax-in-for-item-in-l-loop
+https://stackoverflow.com/questions/6193498/pythonic-way-to-find-maximum-value-and-its-index-in-a-list/6194580
+https://stackoverflow.com/questions/6193498/pythonic-way-to-find-maximum-value-and-its-index-in-a-list/6194580
+https://stackoverflow.com/questions/22231592/pandas-change-data-type-of-series-to-string
+https://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.duplicated.html
+https://pandas.pydata.org/pandas-docs/stable/indexing.html
+https://www.shanelynn.ie/using-pandas-dataframe-creating-editing-viewing-data-in-python/
+https://stackoverflow.com/questions/3282823/get-the-key-corresponding-to-the-minimum-value-within-a-dictionary
+https://stackoverflow.com/questions/12487060/matplotlib-color-according-to-class-labels
+https://stackoverflow.com/questions/12487060/matplotlib-color-according-to-class-labels
+https://stackoverflow.com/questions/5844672/delete-an-element-from-a-dictionary
+https://stackoverflow.com/questions/613183/how-do-i-sort-a-dictionary-by-value
+https://www.datacamp.com/community/tutorials/categorical-data
+https://stackoverflow.com/questions/9752958/how-can-i-return-two-values-from-a-function-in-python
+https://stackoverflow.com/questions/9317025/python-return-list-from-function/9317077
+https://stackoverflow.com/questions/42485098/round-a-number-to-a-given-set-of-values
+https://stackoverflow.com/questions/12141150/from-list-of-integers-get-number-closest-to-a-given-value
+https://stackoverflow.com/questions/9317025/python-return-list-from-function/9317077
+https://stackoverflow.com/questions/42636765/how-to-set-all-the-values-of-an-existing-pandas-dataframe-to-zero
+https://stackoverflow.com/questions/44608524/pandas-replace-column-values-with-a-list
+https://stackoverflow.com/questions/38895768/python-pandas-dataframe-is-it-pass-by-value-or-pass-by-reference/38925257
+https://www.w3resource.com/python-exercises/dictionary/python-data-type-dictionary-exercise-15.php
+https://stackoverflow.com/questions/39301465/appending-one-data-frame-into-another
+https://stackoverflow.com/questions/44608524/pandas-replace-column-values-with-a-list
+https://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.replace.html
+https://stackoverflow.com/questions/42636765/how-to-set-all-the-values-of-an-existing-pandas-dataframe-to-zero
+https://stackoverflow.com/questions/354883/how-to-return-multiple-values-from-a-function
+https://stackoverflow.com/questions/22341271/get-list-from-pandas-dataframe-column
+https://stackoverflow.com/questions/24560298/python-numpy-valueerror-operands-could-not-be-broadcast-together-with-shapes
+https://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.append.html
+https://stackoverflow.com/questions/27126511/add-columns-different-length-pandas
+https://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.append.html
+https://www.youtube.com/watch?v=LDRbO9a6XPU
+http://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.sort_values.html
+https://stackoverflow.com/questions/522563/accessing-the-index-in-for-loops
+https://stackoverflow.com/questions/5105517/deep-copy-of-a-dict-in-python
+https://stackoverflow.com/questions/16923281/pandas-writing-dataframe-to-csv-file
+https://matplotlib.org/users/pyplot_tutorial.html
+https://stackoverflow.com/questions/32370281/how-to-embed-image-or-picture-in-jupyter-notebook-either-from-a-local-machine-o
+https://stackoverflow.com/questions/35384358/how-to-open-my-files-in-data-folder-with-pandas-using-relative-path

@@ -1,0 +1,15 @@
+Temperature,Outlook,Humidity,Windy,left
+hot,sunny,high,false,0
+hot,sunny,high,true,0
+hot,overcast,high,false,1
+cool,rain,normal,false,1
+cool,overcast,normal,true,1
+mild,sunny,high,false,0
+cold,sunny,normal,false,1
+mild,rain,normal,false,1
+mild,sunny,normal,true,1
+mild,overcast,high,true,1
+hot,overcast,normal,false,1
+mild,rain,high,true,0
+cool,rain,normal,true,0
+mild,rain,high,false,1
